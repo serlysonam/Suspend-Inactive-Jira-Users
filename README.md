@@ -7,8 +7,8 @@ from requests.auth import HTTPBasicAuth
 from datetime import datetime, timedelta
 
 # Jira credentials
-JIRA_DOMAIN = "serlysonam.atlassian.net"
-EMAIL = "serly.sonam@gmail.com "
+JIRA_DOMAIN = "ADMIN_NAME.atlassian.net"
+EMAIL = "xyz@gmail.com "
 API_TOKEN = "Atlassian API Token"
 ORG_ID = "Atlassian org id"
 AUTH_TOKEN = "Auth Token"
